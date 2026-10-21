@@ -1,16 +1,29 @@
 ## Hi there 👋
+# Hi, I'm akatsuki! 👋
 
-<!--
-**Takeuchi7010/Takeuchi7010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at a technical college in Japan.
+I enjoy learning new technologies and building things.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Go
+- React
+- TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚽ Hobbies
+- Playing soccer
+- Drawing
+
+## 🎨 My Artwork
+
+Here's a piece of my artwork!
+
+![My artwork](images/artwork.png)
+
+## 🔗 Links
+- [X (Twitter)](https://x.com/akasan1026)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Takeuchi7010&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Takeuchi7010&theme=radical)
